@@ -7,7 +7,7 @@ Guidance:
 
 2. Edit file paths (e.g., homepath) in the scripts based on your settings.
 
-3. Put the test data in the corresponding file.
+3. Put the test data in the corresponding folder.
 
 4. Enjoy yourself.
 
