@@ -9,7 +9,7 @@ Guidance:
 
 3. Put the test data in the corresponding folder.
 
-4. Enjoy yourself.
+4. Note that the codes and data released here are only for the demo use, and a user-friendly version of our ROSE software is coming soon.
 
 If you have any questions, please feel free to contact me :)
 
