@@ -1,5 +1,5 @@
 # RibosOme Stalling Estimator (ROSE)
-This is a demo to predict ribosome stalling using ROSE.
+This is a demo of predicting ribosome stalling using ROSE.
 
 Guidance:
 
@@ -7,7 +7,7 @@ Guidance:
 
 2. Edit file paths (e.g., homepath) in the scripts based on your settings.
 
-3. Put the test data in the corresponding folder.
+3. Put your test data in the corresponding folder.
 
 4. Note that the codes and data released here are only for the demo use, and a user-friendly version of our ROSE software is coming soon.
 
