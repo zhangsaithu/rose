@@ -1,5 +1,4 @@
 # RibosOme Stalling Estimator (ROSE)
-This is a demo of predicting ribosome stalling using ROSE.
 
 Guidance:
 
